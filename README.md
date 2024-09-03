@@ -23,13 +23,12 @@ This project utilizes VCM data, which comprise 22,303 RSOs over a period of six 
 - **Deep Learning:** Multi-Layer Perceptron
 - **Time Series Specific:** InceptionTime, TSiT
 
-## Code Example (coming soon)
+## Code Example 
 
 The provided Python code "main_TSiT" demonstrates:
 * Loading an irregular time series pre-trained model (TSiT).
 * Performing inference on a test dataset. 
 
-<!--
 The pre-trained model contained in the folder "pre_trained_model_Nst_10" is based on:
 * batch size of 64 for the training data and 128 for the testing data
 * NN's depth = 3
@@ -47,7 +46,6 @@ The pre-trained model contained in the folder "pre_trained_model_Nst_15" differs
 * number of steps/measurements $n_{ST} =$ 15 
 
 Resulting in F1 scores (0-1) of 0.84 for Payload, 0.82 for Rocket Body, and 0.94 for Debris classes.
--->
 
 ### Dependencies
 
