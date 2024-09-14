@@ -70,6 +70,8 @@ title = {Early Classification of Space Objects based on Astrometric Time Series 
 }
 ```
 
+Link to the [paper](https://www.researchgate.net/publication/384042830_Early_Classification_of_Space_Objects_based_on_Astrometric_Time_Series_Data).
+
 ## Acknowledgments
 
 The authors thank Deshaun Hutchinson and Amanda Harman at the US Space Force 18 SDS for their efforts in collecting and providing the VCMs used in this study. 
