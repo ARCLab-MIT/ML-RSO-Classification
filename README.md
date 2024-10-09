@@ -1,5 +1,7 @@
 # Early Classification of Space Objects based on Astrometric Time Series Data
 
+[Paper](https://www.researchgate.net/publication/384042830_Early_Classification_of_Space_Objects_based_on_Astrometric_Time_Series_Data) | [Raw Data](https://doi.org/10.5281/zenodo.13892132)
+
 This repository contains code for classifying Resident Space Objects (RSOs) based on their Vector Covariance Message (VCM) time series data using machine learning (ML) techniques. 
 
 ## Project Overview
@@ -69,8 +71,6 @@ address = {Maui, HI},
 title = {Early Classification of Space Objects based on Astrometric Time Series Data}
 }
 ```
-
-Link to the [paper](https://www.researchgate.net/publication/384042830_Early_Classification_of_Space_Objects_based_on_Astrometric_Time_Series_Data).
 
 ## Acknowledgments
 
